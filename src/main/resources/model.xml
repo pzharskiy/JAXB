@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animal>
+    <cat>
+        <age>2</age>
+        <name>Murka2</name>
+        <weight>72</weight>
+    </cat>
+    <dog>
+        <age>100</age>
+        <name>Druzaachok</name>
+        <weight>9</weight>
+    </dog>
+    <dog>
+        <age>10</age>
+        <name>Zu222ck</name>
+        <weight>96</weight>
+    </dog>
+</animal>
